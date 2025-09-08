@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31t7rvyzv2tncezajmnln7cvq5d4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t7rvyzv2tncezajmnln7cvq5d4&count=5" alt="Spotify recently played"  />
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify recently played"  />
   </a>
 </div>
 
