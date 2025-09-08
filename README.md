@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">Meu nome é Fellipe, tenho 18 anos e sou natural de Camaçari – BA.<br>Sou formado no Ensino Médio pelo CEMA e atualmente curso Análise e Desenvolvimento de Sistemas. Também estou em formação na área de Segurança Ofensiva, pela Desec Security, buscando ampliar meus conhecimentos técnicos em tecnologia e cibersegurança.</p>
+<p align="left">Meu nome é Fellipe 👨‍💻<br>tenho 18 anos 🎓 e sou natural de Camaçari – BA 📍.<br>Sou formado no Ensino Médio pelo CEMA 🏫 e atualmente curso Análise e Desenvolvimento de Sistemas 💻. Também estou em formação em Segurança Ofensiva 🔐 pela Desec Security, buscando ampliar meus conhecimentos técnicos em tecnologia e cibersegurança.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fellipefelix06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fellipefelix06&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="240" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fellipefelix06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fellipefelix06&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
