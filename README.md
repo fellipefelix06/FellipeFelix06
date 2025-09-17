@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Fellipe 👨‍💻<br>tenho 18 anos 🎓 e sou natural de Camaçari – BA 📍.<br>Sou formado no Ensino Médio pelo CEMA 🏫 e atualmente curso Análise e Desenvolvimento de Sistemas 💻. Também estou em formação em Segurança Ofensiva 🔐 pela Desec Security, buscando ampliar meus conhecimentos técnicos em tecnologia e cibersegurança.</p>
+<p align="left">Meu nome é Fellipe<br>tenho 18 anos e sou natural de Camaçari – BA.<br>Sou formado no Ensino Médio pelo CEMA e atualmente curso Análise e Desenvolvimento de Sistemas, também estou em formação em Segurança Ofensiva pela Desec Security, buscando ampliar meus conhecimentos técnicos em tecnologia e cibersegurança.</p>
 
 ###
 
