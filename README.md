@@ -34,13 +34,4 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fellipefelix06.fellipefelix06&"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31t7rvyzv2tncezajmnln7cvq5d4">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
