@@ -6,11 +6,6 @@
 
 ###
 
-<!-- GithubStats -->
-![Fellipe GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipefelix06&show_icons=true&theme=gotham)
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/fellipe.s06/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
